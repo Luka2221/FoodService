@@ -1,0 +1,125 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: #E5E5E5;
+    font-family: sans-serif;
+}
+header{
+   
+    height: 50px;
+    top: 0;
+}
+a{
+   color:#FA6980 ; 
+   margin: 20px 90px 20px 20px;
+   vertical-align: middle;
+   width: 38px;
+   height: 15px;   
+   text-decoration: none;
+   font-size: 30px;   
+
+}
+.logo{
+    width: 40px;
+    margin-left: 32px;
+    justify-content: space-between;
+    vertical-align: middle;
+
+
+}
+.logo-text{
+    display: inline-block;
+    vertical-align: middle;
+    justify-content: space-between;
+    font-size: 32px;
+    font-family: sans-serif;
+}
+nav{
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    justify-content: space-between;
+    
+}
+li{
+    
+    display: inline-block;
+    color: #343638;
+    font-size: 22px;
+    font-family: sans-serif;
+    margin-left: 100px;
+}
+.input-search{
+    margin-left: 240px;
+    width: 120px;
+    height: 30px; 
+    border-radius: 50px;
+    border-color: white;
+    align-items: middle;
+}
+
+.first-section{
+    margin-top: 140px; 
+    margin-left: 90px;
+    display: inline-block;
+    vertical-align: middle;
+   
+}
+
+.firstp{
+    display: inline-block;
+    font-size: 60px;
+    vertical-align: top;
+    margin: auto;
+    font-family: sans-serif;
+    
+}
+.foodDelivery{
+    display: inline-block;
+    font-size: 30px;
+    margin: auto;
+    vertical-align: top;
+    font-family: sans-serif;
+}
+
+.foodText{
+    font-size: 23px;
+}
+.buttonOne{
+    background-color: #2F2F2F;
+    border-radius: 30px;
+    color: white;
+    padding: 15px 30px;
+    text-align: center;
+    font-size: 16px;
+    vertical-align: middle;
+
+
+}
+.BtnImage{
+    vertical-align: middle;
+    display: inline-block;
+    margin-top: 30px;
+   
+}
+.WathcMore{
+    display: inline-block;
+    vertical-align: middle;
+}
+.ButtonS{
+    display: inline-block;
+}
+.second-section{
+    display: inline-block;
+    margin-left: 120px;
+}
+.MainPhoto{
+    width: 500px;
+    vertical-align: middle;
+    margin-top: 80px;
+   
+}
+.star{
+    font-style: italic;
+}
+
